@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Below I list a number of certificates earned from Coursera
 
-You can use the [editor on GitHub](https://github.com/fpermeti/fpermeti.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+- [Getting Started with ASP.NET Core Razor Pages](https://coursera.org/share/263923136aa889018fecec0a4c31bc03)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [Web Development with Java Spring Framework](https://coursera.org/share/b5e369c3d4d6e61d35c6642dcd82081c)
 
-### Markdown
+- [Programming Foundations with JavaScript, HTML and CSS](https://coursera.org/share/8e6fbe583d1d1a416a40cfaed98c253e)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/1be0a72323b20d385ee20ab34cb5a3fd)
 
-```markdown
-Syntax highlighted code block
+- [Python Basics](https://coursera.org/share/93071ce62f900a5e84eb60350e0528a6)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fpermeti/fpermeti.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Web Application Technologies and Django](https://coursera.org/share/26c1eb22498b4839c03628cc8d19bfff)
