@@ -11,3 +11,5 @@
 - [Python Basics](https://coursera.org/share/93071ce62f900a5e84eb60350e0528a6)
 
 - [Web Application Technologies and Django](https://coursera.org/share/26c1eb22498b4839c03628cc8d19bfff)
+
+- [Build CRUD REST API in Django](https://coursera.org/share/eeaf522f4d23558a7ab0a2509b27f881)
