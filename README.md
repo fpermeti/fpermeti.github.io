@@ -13,3 +13,8 @@
 - [Web Application Technologies and Django](https://coursera.org/share/26c1eb22498b4839c03628cc8d19bfff)
 
 - [Build CRUD REST API in Django](https://coursera.org/share/eeaf522f4d23558a7ab0a2509b27f881)
+
+
+## Below I post a Google Drive link listing projects completed during my studies(in Greek language)
+
+- [Google Drive](https://drive.google.com/drive/folders/1i2sOqghoKi77XkBRXTPE2eSn_R86eV7g?usp=sharing)
