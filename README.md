@@ -16,6 +16,8 @@
 
 - [Benefits of Bootstrap](https://coursera.org/share/b36faec7ec3fe537136ac4d331ac1bd0)
 
+- [Google Data Analytics](https://coursera.org/share/e1ec496d0d6c42b233bf616a7cca0868)
+
 
 ## Below I post a Google Drive link listing projects completed during my studies(in Greek language)
 
